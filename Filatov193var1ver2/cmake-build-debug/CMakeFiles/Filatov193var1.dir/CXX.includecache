@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/geobl/CLionProjects/Filatov193var1/main.cpp
+iostream
+-
+pthread.h
+-
+semaphore.h
+-
+stdlib.h
+-
+ctime
+-
+
